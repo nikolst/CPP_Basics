@@ -1,5 +1,5 @@
 # CPP
-Learning C++
+Learning C++ Basics
 
 Решени задачи от:
 1) Упражненията по УП на ИС (ФМИ)
